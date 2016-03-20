@@ -1,0 +1,25 @@
+* {
+	 margin: 0px;
+	 padding: 0px;
+}
+
+body {
+	background: black;
+}
+
+header {
+	background: url(https://www.google.ca/search?q=google+images&espv=2&biw=1258&bih=654&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiPs4GC8c_LAhUEeT4KHYlxA9UQ_AUIBigB#tbm=isch&q=traveling&imgrc=qHcvC6En_oLZ2M%3A
+	);
+	background-size: cover;
+	height: 100vh;
+
+
+	.title {
+		position: absolute;
+		top: 20%
+		left: 50%
+		transform: translate (-50%, -50%);
+		color: white;
+		text-align: center;
+		font size: 3em;
+	}
